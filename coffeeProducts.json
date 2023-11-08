@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "categoryName": "Cappuccino",
+      "categoryId": 0,
+      "productCode": "PROD0001",
+      "productName": "Cappuccino Freddo",
+      "sellPrice": 300
+    },
+    {
+      "categoryName": "Cappuccino",
+      "categoryId": 0,
+      "productCode": "PROD0002",
+      "productName": "Iced Cappuccino",
+      "sellPrice": 380
+    },
+    {
+      "categoryName": "Espresso",
+      "categoryId": 1,
+      "productCode": "PROD1001",
+      "productName": "Espresso (single)",
+      "sellPrice": 220
+    },
+    {
+      "categoryName": "Espresso",
+      "categoryId": 1,
+      "productCode": "PROD1002",
+      "productName": "Doppio",
+      "sellPrice": 265
+    },
+    {
+      "categoryName": "Espresso",
+      "categoryId": 1,
+      "productCode": "PROD1003",
+      "productName": "Ristretto",
+      "sellPrice": 205
+    },
+    {
+      "categoryName": "Espresso",
+      "categoryId": 1,
+      "productCode": "PROD1004",
+      "productName": "Con Hielo",
+      "sellPrice": 485
+    },
+    {
+      "categoryName": "Espresso",
+      "categoryId": 1,
+      "productCode": "PROD1005",
+      "productName": "Red Eye",
+      "sellPrice": 600
+    },
+    {
+      "categoryName": "Espresso",
+      "categoryId": 1,
+      "productCode": "PROD1006",
+      "productName": "Black Eye",
+      "sellPrice": 340
+    },
+    {
+      "categoryName": "Latte",
+      "categoryId": 2,
+      "productCode": "PROD2001",
+      "productName": "Gingerbread Latte",
+      "sellPrice": 340
+    }
+  ]
+}
