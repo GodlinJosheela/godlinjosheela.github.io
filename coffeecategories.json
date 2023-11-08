@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "categoryName": "Cappuccino",
+      "categoryId": 0
+    },
+    {
+      "categoryName": "Espresso",
+      "categoryId": 1
+    },
+    {
+      "categoryName": "Latte",
+      "categoryId": 2
+    },
+    {
+      "categoryName": "Americano",
+      "categoryId": 3
+    }
+  ]
+}
