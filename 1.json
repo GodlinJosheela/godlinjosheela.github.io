@@ -1,0 +1,16 @@
+[
+    {
+      "categoryName": "Cappuccino",
+      "categoryId": 0,
+      "productCode": "PROD0001",
+      "productName": "Cappuccino Freddo",
+      "sellPrice": 300
+    },
+    {
+      "categoryName": "Cappuccino",
+      "categoryId": 0,
+      "productCode": "PROD0002",
+      "productName": "Iced Cappuccino",
+      "sellPrice": 380
+    }
+  ]
