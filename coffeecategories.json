@@ -1,6 +1,4 @@
-{
-  "categories": [
-    {
+[{
       "categoryName": "Cappuccino",
       "categoryId": 0
     },
@@ -17,4 +15,3 @@
       "categoryId": 3
     }
   ]
-}

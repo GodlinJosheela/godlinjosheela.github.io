@@ -1,5 +1,4 @@
-{
-  "products": [
+[
     {
       "categoryName": "Cappuccino",
       "categoryId": 0,
@@ -64,4 +63,3 @@
       "sellPrice": 340
     }
   ]
-}
