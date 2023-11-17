@@ -4,13 +4,15 @@
       "categoryId": 0,
       "productCode": "PROD0001",
       "productName": "Cappuccino Freddo",
-      "sellPrice": 300
+      "sellPrice": 300,
+"imageUrl":"https://en.wikipedia.org/wiki/Cappuccino#/media/File:Cappuccino_at_Sightglass_Coffee.jpg"
     },
     {
       "categoryName": "Cappuccino",
       "categoryId": 0,
       "productCode": "PROD0002",
       "productName": "Iced Cappuccino",
-      "sellPrice": 380
+      "sellPrice": 380,
+"imageUrl":"https://en.wikipedia.org/wiki/Cappuccino#/media/File:Cappuccino_at_Sightglass_Coffee.jpg"
     }
   ]

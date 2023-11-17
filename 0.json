@@ -4,62 +4,71 @@
       "categoryId": 0,
       "productCode": "PROD0001",
       "productName": "Cappuccino Freddo",
-      "sellPrice": 300
+      "sellPrice": 300,
+"imageUrl":"https://en.wikipedia.org/wiki/Cappuccino#/media/File:Cappuccino_at_Sightglass_Coffee.jpg"
     },
     {
       "categoryName": "Cappuccino",
       "categoryId": 0,
       "productCode": "PROD0002",
       "productName": "Iced Cappuccino",
-      "sellPrice": 380
+      "sellPrice": 380,
+"imageUrl":"https://en.wikipedia.org/wiki/Cappuccino#/media/File:Cappuccino_at_Sightglass_Coffee.jpg"
     },
     {
       "categoryName": "Espresso",
       "categoryId": 1,
       "productCode": "PROD1001",
       "productName": "Espresso (single)",
-      "sellPrice": 220
+      "sellPrice": 220,
+"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tazzina_di_caff%C3%A8_a_Ventimiglia.jpg/440px-Tazzina_di_caff%C3%A8_a_Ventimiglia.jpg"
     },
     {
       "categoryName": "Espresso",
       "categoryId": 1,
       "productCode": "PROD1002",
       "productName": "Doppio",
-      "sellPrice": 265
+      "sellPrice": 265,
+"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tazzina_di_caff%C3%A8_a_Ventimiglia.jpg/440px-Tazzina_di_caff%C3%A8_a_Ventimiglia.jpg"
     },
     {
       "categoryName": "Espresso",
       "categoryId": 1,
       "productCode": "PROD1003",
       "productName": "Ristretto",
-      "sellPrice": 205
+      "sellPrice": 205,
+"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tazzina_di_caff%C3%A8_a_Ventimiglia.jpg/440px-Tazzina_di_caff%C3%A8_a_Ventimiglia.jpg"
     },
     {
       "categoryName": "Espresso",
       "categoryId": 1,
       "productCode": "PROD1004",
       "productName": "Con Hielo",
-      "sellPrice": 485
+      "sellPrice": 485,
+"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tazzina_di_caff%C3%A8_a_Ventimiglia.jpg/440px-Tazzina_di_caff%C3%A8_a_Ventimiglia.jpg"
     },
     {
       "categoryName": "Espresso",
       "categoryId": 1,
       "productCode": "PROD1005",
       "productName": "Red Eye",
-      "sellPrice": 600
+      "sellPrice": 600,
+"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tazzina_di_caff%C3%A8_a_Ventimiglia.jpg/440px-Tazzina_di_caff%C3%A8_a_Ventimiglia.jpg"
     },
     {
       "categoryName": "Espresso",
       "categoryId": 1,
       "productCode": "PROD1006",
       "productName": "Black Eye",
-      "sellPrice": 340
+      "sellPrice": 340,
+"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tazzina_di_caff%C3%A8_a_Ventimiglia.jpg/440px-Tazzina_di_caff%C3%A8_a_Ventimiglia.jpg"
     },
     {
       "categoryName": "Latte",
       "categoryId": 2,
       "productCode": "PROD2001",
       "productName": "Gingerbread Latte",
-      "sellPrice": 340
+      "sellPrice": 340,
+"imageUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Latte_at_Doppio_Ristretto_Chiang_Mai_01.jpg/340px-Latte_at_Doppio_Ristretto_Chiang_Mai_01.jpg"
     }
   ]
